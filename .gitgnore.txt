@@ -1,4 +1,12 @@
 .gitignore
+# Configuración del editor
+.vscode/
+.idea/
+
+# Archivos del sistema operativo
 .DS_Store
 Thumbs.db
-.vscode/
+
+# Archivos temporales
+*.tmp
+*.log
